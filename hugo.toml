@@ -1,0 +1,13 @@
+baseURL = "https://docarchitects.com/"
+languageCode = "en-us"
+title = "DocArchitects"
+theme = "PaperMod"
+[pagination]
+pagerSize = 5
+
+
+[params]
+  author = "DocArchitects Team"
+  description = "Technical Documentation & Automation Experts"
+  defaultTheme = "auto"
+  showReadingTime = true
